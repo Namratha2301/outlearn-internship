@@ -21,7 +21,7 @@ Here are a few snippets of the designs I created during my internship:
   - Worked on layout improvements and responsive design to ensure compatibility across devices.
 
 ## Key Contributions
-1. **Prototypes**: Developed high-fidelity prototypes using design tools (link to prototype images/screenshots if available).
+1. **Prototypes**: Developed high-fidelity prototypes using design tools.
 2. **Graphics & Icons**: Designed unique graphics and icons to align with the brand's aesthetic.
 3. **HTML/CSS Code**: Enhanced website pages with custom CSS styling and layout improvements.
 
