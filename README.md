@@ -4,7 +4,7 @@
 This repository showcases my work during my internship at Outlearn, where I held a dual role as a Software Development Engineer (SDE) and UI/UX Designer in my first year of college. My primary responsibilities included designing web and app prototypes, creating custom graphics and icons, and contributing to front-end code.
 
 ## Design Snippets
-Here are a few snippets of the designs I created during my internship:
+Here are a few snippets of the designs I created during my internship (Designing in Figma, Developement: HTML, CSS, JavaScript):
 <img width="910" alt="Screenshot 2024-10-29 at 4 12 37 AM" src="https://github.com/user-attachments/assets/272534e5-5dff-4527-83b5-5319a34d5c2c">
 <img width="896" alt="Screenshot 2024-10-29 at 4 12 44 AM" src="https://github.com/user-attachments/assets/e1ccf824-436e-4705-9a33-d9e1a5e61405">
 <img width="319" alt="Screenshot 2024-10-29 at 4 22 10 AM" src="https://github.com/user-attachments/assets/2be66fd2-dda3-443f-8273-61ecfb87f6a0">
